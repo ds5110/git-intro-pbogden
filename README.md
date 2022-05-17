@@ -5,7 +5,7 @@ The following scatterplot shows the relationship between wage and age for the wa
 
 <img src="figs/fig.png" width="500">
 
-Recreate the figure (above) with
+Recreate the figure (above) with:
 ```
 make app
 ```
